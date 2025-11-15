@@ -162,10 +162,7 @@ export default function App() {
         <p><strong>Count:</strong> {count}</p>
       </div>
       <hr />
-      <p style={{ fontSize: 12, color: '#666' }}>
-        <strong>Demo Note:</strong> This frontend is set to use the placeholder program ID. After deploying the program to Devnet,
-        update the program ID in the code and uncomment the real Anchor method calls. See PROJECT_DESCRIPTION.md for deployment steps.
-      </p>
+    
     </div>
   )
 }

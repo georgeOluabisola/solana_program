@@ -10,7 +10,7 @@
   const countEl = document.getElementById('count');
 
   let provider = null;
-  let programId = new PublicKey('Counter111111111111111111111111111111111111'); // replace with deployed id
+  let programId = new PublicKey('4gLELQfQy9pv5UEhSu6SnRhxbGlBZwrJfvdLtpPSYaM'); // replace with deployed id
 
   connectBtn.onclick = async () => {
     if (!window.solana) {

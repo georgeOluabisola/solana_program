@@ -2,9 +2,9 @@
 
 **Project Name:** Counter dApp (Anchor PDA example)
 
-**Deployed Frontend URL:** 
+**Deployed Frontend URL: https://solana-program-seven.vercel.app
 
-**Solana Program ID:** Counter111111111111111111111111111111111111
+**Solana Program ID: 4gLELQfQy9pv5UEhSu6SnRhxbGlBZwrJfvdLtpPSYaM
 
 ## Project Overview
 
